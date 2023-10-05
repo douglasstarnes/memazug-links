@@ -10,11 +10,13 @@ Note: All times are Central US
   RSVP: [https://bit.ly/iowa-azure-oct-23](https://bit.ly/iowa-azure-oct-23)
 ----
 
-* **Microsoft Fabric Hands-on Workshop (In-person only)**
+* **Louisville Azure Meetup**
 
-  Thursday, October 12, 2023 9:00 AM
+  Implementing Multi-Tenant AKS
 
-  RSVP: [https://bit.ly/mem-fabric-oct-23](https://bit.ly/mem-fabric-oct-23)
+  Thursday, October 12, 2023 6:00 PM
+
+  RSVP: [https://bit.ly/mem-fabric-oct-23](https://bit.ly/louazug-oct-23)
 ----
 
 * **Boston Azure**
